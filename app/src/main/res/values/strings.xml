@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pin Code</string>
+    <string name="enter_code">Введите код</string>
+    <string name="delete">С</string>
+    <string name="ok">OK</string>
+    <string name="pin_correct">Код верен</string>
+    <string name="pin_incorrect">Код неверен</string>
+</resources>
